@@ -1,3 +1,3 @@
 # ansibleclass
 
-This will be my ansible Githun repo.
+This will be my ansible Github repo.
